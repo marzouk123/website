@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  
+    body {
+      
+  
+    }
+  
+  .section{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        background: linear-gradient(to right, #3f2b96, #a8c0ff);
+    padding: 20px 40px;
+  
+  gap: 30px;
+  }
+  
+  .quiz{
+    padding: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 20px;
+    border: 0;
+    background-color: white;
+  }
+  
+  

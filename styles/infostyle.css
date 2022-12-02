@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  body {
+    align-items: center;
+    background: linear-gradient(to right, #3f2b96, #a8c0ff);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    height: 100vh;
+    place-items: center;
+  }
